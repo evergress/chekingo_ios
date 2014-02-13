@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Advanced/NSFNanoResult.m \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Advanced/NSFNanoResult.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NanoStore_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoGlobals_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoGlobals.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoSearch_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NanoStore.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoObjectProtocol.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoObject.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoStore.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoPredicate.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoExpression.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoSearch.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoSortDescriptor.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Public/NSFNanoBag.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Advanced/NSFNanoEngine.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoResult_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoStore_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Advanced/NSFOrderedDictionary.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoBag_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoPredicate_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoExpression_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoEngine_Private.h \
+  /Users/Dalcom/chekingo/vendor/Pods/NanoStore/Classes/Private/NSFNanoObject_Private.h
